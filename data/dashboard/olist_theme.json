@@ -1,0 +1,14 @@
+{
+  "name": "Olist Sales Intelligence",
+  "dataColors": [
+    "#0F766E",
+    "#2563EB",
+    "#7C3AED",
+    "#F59E0B",
+    "#DC2626",
+    "#64748B"
+  ],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#0F766E"
+}

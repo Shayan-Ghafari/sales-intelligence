@@ -1,0 +1,13 @@
+# Source data and generated analysis outputs
+data/raw/
+data/processed/
+data/*.duckdb
+
+# Jupyter and Python local files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Operating-system files
+.DS_Store
+Thumbs.db
